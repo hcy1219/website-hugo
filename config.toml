@@ -1,0 +1,66 @@
+baseurl = "https://hcy1219.github.io/"
+title = "Home"
+theme = "hugo-coder"
+languagecode = "zh-tw"
+defaultcontentlanguage = "zh"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Hsu Chia Yuan"
+    info = "一個在香港求學的臺灣學生"
+    description = "Wendy Hsu's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "/images/Me.JPG"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Enter a text here."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/hcy1219"
+
+[[params.social]]
+    name = "Gmail"
+    icon = "far fa-envelope fa-2x"
+    weight = 2
+    url = "23854005.bg2303@gmail.com"
+
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 3
+    url = "_wendy.hcy"
+
+
+# Menu links
+[[menu.main]]
+    name = "My CV"
+    weight = 1
+    url  = "/"
+    
+[[menu.main]]
+    name = "About Me"
+    weight = 2
+    url = "/posts/About Me"
+
