@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    #footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -54,13 +54,19 @@ disqusShortname = "yourdiscussshortname"
 
 
 # Menu links
-[[menu.main]]
-    name = "My CV"
-    weight = 1
-    url  = "/"
     
 [[menu.main]]
-    name = "About Me"
+    name = "About"
+    weight = 1
+    url = "/About/"
+
+[[menu.main]]
+    name = "My CV"
     weight = 2
-    url = "/posts/About Me"
+    url = "/public/My_CV"
+
+
+
+
+
 
