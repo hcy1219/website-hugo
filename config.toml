@@ -63,7 +63,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "My CV"
     weight = 2
-    url = "/public/My_CV"
+    url = "/static/tmp.pdf"
 
 
 

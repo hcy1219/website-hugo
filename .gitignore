@@ -1,0 +1,21 @@
+# Hugo default output directory
+public
+resources
+
+## OS Files
+__MACOSX
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode
+desktop.ini
+
+# OSX
+.DS_Store
+
+#rendering
+.firebase
+node_modules
