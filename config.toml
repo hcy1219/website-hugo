@@ -1,5 +1,5 @@
 baseurl = "https://hcy1219.github.io/"
-title = "Home"
+title = "Hsu Chia Yuan"
 theme = "hugo-coder"
 languagecode = "zh-tw"
 defaultcontentlanguage = "zh"
@@ -44,13 +44,19 @@ disqusShortname = "yourdiscussshortname"
     name = "Gmail"
     icon = "far fa-envelope fa-2x"
     weight = 2
-    url = "23854005.bg2303@gmail.com"
+    url = "1155124446@link.cuhk.edu.hk"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/chia-yuan-hsu-b38036172/"
 
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"
-    weight = 3
-    url = "_wendy.hcy"
+    weight = 4
+    url = "https://www.instagram.com/_wendy.hcy/"
 
 
 # Menu links
@@ -64,6 +70,11 @@ disqusShortname = "yourdiscussshortname"
     name = "Resume"
     weight = 2
     url = "/static/tmp.pdf"
+
+[[menu.main]]
+    name = "Project"
+    weight = 3
+    url = "/Project/"
 
 
 
