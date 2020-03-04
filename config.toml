@@ -44,7 +44,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Gmail"
     icon = "far fa-envelope fa-2x"
     weight = 2
-    url = "1155124446@link.cuhk.edu.hk"
+    url = "mailto:1155124446@link.cuhk.edu.hk"
 
 [[params.social]]
     name = "LinkedIn"
