@@ -69,7 +69,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Resume"
     weight = 2
-    url = "/static/cv_0301_hsuchiayuan.pdf"
+    url = "/static/cv_0611_hsuchiayuan.pdf"
 
 [[menu.main]]
     name = "Project"
