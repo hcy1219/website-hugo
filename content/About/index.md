@@ -4,7 +4,7 @@ date: 2020-03-01T17:04:12+08:00
 draft: false
 ---
   
-我是徐佳圓，目前就讀於香港中文大學信息工程學系三年級。  
+我是徐佳圓，原先就讀於香港中文大學信息工程學系，三年級時由於疫情等因素，目前轉學回台，就讀國立清華大學資訊工程學系。  
   
 **｜個人特質｜**  
 生性樂觀開朗，健談。創造力強，想像力豐富，熱愛學習新知，也喜歡認識新朋友。喜歡摸索未知的事物，也喜歡走與別人不一樣的路，但在摸索的同時也抱持著細心謹慎的態度，會盡可能把一件事做到最完美的狀態。我認為人生就是不停的跌倒再站起的過程，因此面對困難和挫折我不會放棄，反而會積極尋找不一樣的解決辦法。     
@@ -15,6 +15,7 @@ draft: false
   
 此外，我擔任[留港臺灣學生會](https://www.hktaiwanese.com/index.html)的活動幹部，負責為在港台生統籌活動（如迎新會、籃球賽等），提供台生可以凝聚向心力以及經驗交流的機會。我擔任了一場活動的總召以及數場活動的副召，也擔任過主持人的工作。這些經歷使我熟悉統籌活動的技巧，也讓我擅長於團隊溝通與合作。  
 並且我也曾擔任中大i-Ambassador文化大使，舉辦活動介紹及推廣台灣文化，並且與不同國籍的中大學生交流。和擁有不同文化的同學交流讓我獲得不少新知識，也交到許多朋友。  
+近期在轉入清華大學資訊工程學系後，由於我對於Unity 相當有興趣，在這學期和組員利用Unity製作了一個2D平面捲軸的動作遊戲，並且入圍了跨校遊戲設計競賽五校中的前十五強，也增進了我對於Unity以及遊戲製程的認識。
   
 **｜未來規劃｜**  
 短期目標：
@@ -24,13 +25,13 @@ draft: false
 畢業後我會想要出國攻讀更高的學位，也增進自己的能力。由於我很喜歡創造新事物，未來期許自己能夠找到適合自己的工作，能讓我把自己的想法付諸實現。科技的演變是非常快速的，我必須跟上腳步，因此在就業的同時，我也不會停止學習，讓自己更上一層樓。  
 
 ---
-Hi! I'm a Year 3 Student from Taipei, Taiwan, and I'm currently major in Information Engineering in the Chinese University of Hong Kong.  
+Hi! I'm a Year 3 student from Taipei, Taiwan, and after transfer back to Taiwan from the Information Engineering in the Chinese University of Hong Kong, I'm currently major in Computer Science in National Tsing Hua University.  
 I'm also the the Event Officer of the 8th Executive Committee of the [Hong Kong Taiwanese Students’ Association](https://www.hktaiwanese.com/index.html).  
 I have several Projects done before. [Take a look!](https://hcy1219.github.io/project/)  
 I'm looking for internship opportunities for Summer and Fall 2020. Check out [My Resume](https://hcy1219.github.io/static/cv_hsuchiayuan.pdf) for more informations!   
 
 ---
-Tel | (HK)62146298 (TW)0975831518  
-Email | <23854005.bg2303@gmail.com> / <1155124446@link.cuhk.edu.hk>  
+Tel |(TW)0975831518  
+Email | <chiayuan1219@gmail.com>
 Github | [hcy1219](https://github.com/hcy1219)  
 
