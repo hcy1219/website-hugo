@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Hsu Chia Yuan"
-    info = "一個在香港求學的臺灣學生"
+    info = "徐佳圓"
     description = "Wendy Hsu's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "/images/Me.JPG"
@@ -44,7 +44,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Gmail"
     icon = "far fa-envelope fa-2x"
     weight = 2
-    url = "mailto:1155124446@link.cuhk.edu.hk"
+    url = "mailto:chiayuan1219@gmail.com"
 
 [[params.social]]
     name = "LinkedIn"
